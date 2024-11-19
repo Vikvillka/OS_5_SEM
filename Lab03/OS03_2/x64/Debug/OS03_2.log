@@ -1,0 +1,4 @@
+﻿  OS03_2.cpp
+D:\5_SEM_LABS\OS\Lab03\OS03_2\OS03_2.cpp(20,33): warning C4129: O: неизвестная escape-последовательность
+D:\5_SEM_LABS\OS\Lab03\OS03_2\OS03_2.cpp(21,33): warning C4129: O: неизвестная escape-последовательность
+  OS03_2.vcxproj -> D:\5_SEM_LABS\OS\Lab03\x64\Debug\OS03_2.exe

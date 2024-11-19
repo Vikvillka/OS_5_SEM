@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\OS\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A74A27-5832-4BD7-9D57-E51147496F06}|Lab03\\Lab03.vcxproj|D:\\5_SEM_LABS\\OS\\Lab03\\Lab03\\OS03_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41A74A27-5832-4BD7-9D57-E51147496F06}|Lab03\\Lab03.vcxproj|solutionrelative:Lab03\\OS03_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700B1360-0175-4CFD-A4DE-4CC5709B9BED}|OS03_2\\OS03_2.vcxproj|D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2\\OS03_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{700B1360-0175-4CFD-A4DE-4CC5709B9BED}|OS03_2\\OS03_2.vcxproj|solutionrelative:OS03_2\\OS03_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C1D942-0FFA-431B-BE2D-CE352E8E5C92}|OS03_3\\OS03_3.vcxproj|D:\\5_SEM_LABS\\OS\\Lab03\\OS03_3\\OS03_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7C1D942-0FFA-431B-BE2D-CE352E8E5C92}|OS03_3\\OS03_3.vcxproj|solutionrelative:OS03_3\\OS03_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A02B6-7B08-4E1A-AC94-186D44CC8D58}|OS03_2_2\\OS03_2_2.vcxproj|D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2_2\\OS03_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B57A02B6-7B08-4E1A-AC94-186D44CC8D58}|OS03_2_2\\OS03_2_2.vcxproj|solutionrelative:OS03_2_2\\OS03_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609B9E32-746D-4236-9412-3BFD3E3CC501}|OS03_2_1\\OS03_2_1.vcxproj|D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2_1\\OS03_2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{609B9E32-746D-4236-9412-3BFD3E3CC501}|OS03_2_1\\OS03_2_1.vcxproj|solutionrelative:OS03_2_1\\OS03_2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 411,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS03_3.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_3\\OS03_3.cpp",
+              "RelativeDocumentMoniker": "OS03_3\\OS03_3.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_3\\OS03_3.cpp",
+              "RelativeToolTip": "OS03_3\\OS03_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T07:41:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OS03_2_2.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2_2\\OS03_2_2.cpp",
+              "RelativeDocumentMoniker": "OS03_2_2\\OS03_2_2.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2_2\\OS03_2_2.cpp",
+              "RelativeToolTip": "OS03_2_2\\OS03_2_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T12:11:39.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS03_2.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2\\OS03_2.cpp",
+              "RelativeDocumentMoniker": "OS03_2\\OS03_2.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2\\OS03_2.cpp",
+              "RelativeToolTip": "OS03_2\\OS03_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T11:51:46.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OS03_2_1.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2_1\\OS03_2_1.cpp",
+              "RelativeDocumentMoniker": "OS03_2_1\\OS03_2_1.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab03\\OS03_2_1\\OS03_2_1.cpp",
+              "RelativeToolTip": "OS03_2_1\\OS03_2_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T11:57:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS03_1.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab03\\Lab03\\OS03_1.cpp",
+              "RelativeDocumentMoniker": "Lab03\\OS03_1.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab03\\Lab03\\OS03_1.cpp",
+              "RelativeToolTip": "Lab03\\OS03_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T10:57:46.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

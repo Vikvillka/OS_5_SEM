@@ -1,0 +1,4 @@
+﻿  OS05_01.cpp
+D:\5_SEM_LABS\OS\Lab05\Lab05\OS05_01.cpp(71,10): warning C4244: аргумент: преобразование "DWORD_PTR" в "int", возможна потеря данных
+D:\5_SEM_LABS\OS\Lab05\Lab05\OS05_01.cpp(74,10): warning C4244: аргумент: преобразование "DWORD_PTR" в "int", возможна потеря данных
+  Lab05.vcxproj -> D:\5_SEM_LABS\OS\Lab05\x64\Debug\Lab05.exe

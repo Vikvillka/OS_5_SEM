@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\OS\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5_SEM_LABS\\KMS\\Lab2\\Assets\\RotateXZ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4945D-8758-43ED-9AEE-ABF5E1A83512}|OS04_5\\OS04_5.vcxproj|D:\\5_SEM_LABS\\OS\\Lab04\\OS04_5\\OS04_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58D4945D-8758-43ED-9AEE-ABF5E1A83512}|OS04_5\\OS04_5.vcxproj|solutionrelative:OS04_5\\OS04_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BF848F-5993-4969-B1C2-FA360048650F}|OS04_4\\OS04_4.vcxproj|D:\\5_SEM_LABS\\OS\\Lab04\\OS04_4\\OS04_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99BF848F-5993-4969-B1C2-FA360048650F}|OS04_4\\OS04_4.vcxproj|solutionrelative:OS04_4\\OS04_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E87A589-41C7-4C9F-A7B2-071440026E39}|OS04_3\\OS04_3.vcxproj|D:\\5_SEM_LABS\\OS\\Lab04\\OS04_3\\OS04_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E87A589-41C7-4C9F-A7B2-071440026E39}|OS04_3\\OS04_3.vcxproj|solutionrelative:OS04_3\\OS04_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB5871-4EA7-4E57-A4B5-B7BBD214D8C0}|OS04_2\\OS04_2.vcxproj|D:\\5_SEM_LABS\\OS\\Lab04\\OS04_2\\OS04_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4EB5871-4EA7-4E57-A4B5-B7BBD214D8C0}|OS04_2\\OS04_2.vcxproj|solutionrelative:OS04_2\\OS04_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5050E20A-D168-4F67-8D34-9998F0858A91}|Lab04\\Lab04.vcxproj|D:\\5_SEM_LABS\\OS\\Lab04\\Lab04\\OS04_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5050E20A-D168-4F67-8D34-9998F0858A91}|Lab04\\Lab04.vcxproj|solutionrelative:Lab04\\OS04_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotateXZ.cs",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\KMS\\Lab2\\Assets\\RotateXZ.cs",
+              "RelativeDocumentMoniker": "..\\..\\KMS\\Lab2\\Assets\\RotateXZ.cs",
+              "ToolTip": "D:\\5_SEM_LABS\\KMS\\Lab2\\Assets\\RotateXZ.cs",
+              "RelativeToolTip": "..\\..\\KMS\\Lab2\\Assets\\RotateXZ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:48:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS04_5.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_5\\OS04_5.cpp",
+              "RelativeDocumentMoniker": "OS04_5\\OS04_5.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_5\\OS04_5.cpp",
+              "RelativeToolTip": "OS04_5\\OS04_5.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T09:01:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS04_4.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_4\\OS04_4.cpp",
+              "RelativeDocumentMoniker": "OS04_4\\OS04_4.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_4\\OS04_4.cpp",
+              "RelativeToolTip": "OS04_4\\OS04_4.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T08:55:19.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OS04_3.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_3\\OS04_3.cpp",
+              "RelativeDocumentMoniker": "OS04_3\\OS04_3.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_3\\OS04_3.cpp",
+              "RelativeToolTip": "OS04_3\\OS04_3.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T08:40:40.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OS04_2.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_2\\OS04_2.cpp",
+              "RelativeDocumentMoniker": "OS04_2\\OS04_2.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab04\\OS04_2\\OS04_2.cpp",
+              "RelativeToolTip": "OS04_2\\OS04_2.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T08:34:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OS04_1.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab04\\Lab04\\OS04_1.cpp",
+              "RelativeDocumentMoniker": "Lab04\\OS04_1.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab04\\Lab04\\OS04_1.cpp",
+              "RelativeToolTip": "Lab04\\OS04_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T07:40:34.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

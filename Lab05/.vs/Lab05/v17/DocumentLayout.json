@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\OS\\Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD41A1FB-CC64-4489-8B9D-0C29B84E92A1}|OS05_02\\OS05_02.vcxproj|D:\\5_SEM_LABS\\OS\\Lab05\\OS05_02\\OS05_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD41A1FB-CC64-4489-8B9D-0C29B84E92A1}|OS05_02\\OS05_02.vcxproj|solutionrelative:OS05_02\\OS05_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554964EC-26F3-422D-A6AA-78A8830B6AF8}|Lab05\\Lab05.vcxproj|D:\\5_SEM_LABS\\OS\\Lab05\\Lab05\\OS05_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{554964EC-26F3-422D-A6AA-78A8830B6AF8}|Lab05\\Lab05.vcxproj|solutionrelative:Lab05\\OS05_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F736C19-DF76-4698-9722-7F3363C8FD90}|OS05_03\\OS05_03.vcxproj|D:\\5_SEM_LABS\\OS\\Lab05\\OS05_03\\OS05_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F736C19-DF76-4698-9722-7F3363C8FD90}|OS05_03\\OS05_03.vcxproj|solutionrelative:OS05_03\\OS05_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91974A89-0BF0-47DC-9BBC-8C518C0BDD6E}|OS05_02x\\OS05_02x.vcxproj|D:\\5_SEM_LABS\\OS\\Lab05\\OS05_02x\\OS05_02x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91974A89-0BF0-47DC-9BBC-8C518C0BDD6E}|OS05_02x\\OS05_02x.vcxproj|solutionrelative:OS05_02x\\OS05_02x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OS05_03.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab05\\OS05_03\\OS05_03.cpp",
+              "RelativeDocumentMoniker": "OS05_03\\OS05_03.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab05\\OS05_03\\OS05_03.cpp",
+              "RelativeToolTip": "OS05_03\\OS05_03.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAK4AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T15:15:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OS05_02.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab05\\OS05_02\\OS05_02.cpp",
+              "RelativeDocumentMoniker": "OS05_02\\OS05_02.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab05\\OS05_02\\OS05_02.cpp",
+              "RelativeToolTip": "OS05_02\\OS05_02.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAD0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T12:50:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OS05_02x.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab05\\OS05_02x\\OS05_02x.cpp",
+              "RelativeDocumentMoniker": "OS05_02x\\OS05_02x.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab05\\OS05_02x\\OS05_02x.cpp",
+              "RelativeToolTip": "OS05_02x\\OS05_02x.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAF8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T12:45:56.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OS05_01.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\OS\\Lab05\\Lab05\\OS05_01.cpp",
+              "RelativeDocumentMoniker": "Lab05\\OS05_01.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\OS\\Lab05\\Lab05\\OS05_01.cpp",
+              "RelativeToolTip": "Lab05\\OS05_01.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T12:36:45.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
